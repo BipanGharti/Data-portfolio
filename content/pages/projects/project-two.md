@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'Sales Dashboard '
 colors: colors-a
-date: '2024-08-20'
+date: '2024-08-15'
 client: Tableau
 description: Just a sample dashboard from Codebasics Course.
 featuredImage:
