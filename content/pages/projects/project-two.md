@@ -10,7 +10,7 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/Screenshot 2024-08-05 093501.png
+  url: /images/Screenshot 2024-08-15 195801.png
   altText: Tableau Dashboard
 media:
   type: ImageBlock
