@@ -4,7 +4,7 @@ title: 'Sales Dashboard '
 colors: colors-a
 date: '2021-12-20'
 client: Tableau
-description: Just a sample dashboard from Codebasics Course..
+description: Just a sample dashboard from Codebasics Course.
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2024-08-15 195801.png
