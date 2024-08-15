@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'Sales Dashboard '
+title: Sales Dashboard Using Tableau
 colors: colors-a
 date: '2024-08-15'
 client: Tableau
