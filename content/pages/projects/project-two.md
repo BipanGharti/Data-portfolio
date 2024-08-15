@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2024-08-05 093501.png
-  altText: Project thumbnail image
+  altText: Tableau Dashboard
 media:
   type: ImageBlock
   url: /images/bg2.jpg
