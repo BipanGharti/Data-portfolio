@@ -3,7 +3,7 @@ type: ProjectLayout
 title: PowerBI
 colors: colors-a
 date: '2024-08-16'
-client: Awesome client
+client: PowerBI
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
