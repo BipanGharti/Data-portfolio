@@ -36,7 +36,7 @@
                 "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "url": "https://github.com/BipanGharti",
                 "icon": "github"
             }
         ],
@@ -58,7 +58,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "url": "bipangharti@gmail.com",
                 "altText": ""
             },
             {
@@ -70,7 +70,7 @@
             {
                 "type": "Link",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "url": "https://github.com/BipanGharti",
                 "altText": "Netlify templates"
             }
         ],

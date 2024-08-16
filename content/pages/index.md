@@ -15,9 +15,10 @@ sections:
     backgroundSize: full
     title: I’m a student for learning data anaytics
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      This is my portfolio website to map my Journey of learning techworld.I’m
+      sharing it all this with ya’ll to impress you with all the hard work I’ve
+      done in the past few years. Once you’re impressed, you can continue to
+      scroll down to see more details and credentials about me.
     styles:
       self:
         height: auto
@@ -161,11 +162,6 @@ sections:
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
