@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2024-07-07 194033.png
-  altText: Project thumbnail image
+  altText: PowerBI
 media:
   type: ImageBlock
   url: /images/bg3.jpg
