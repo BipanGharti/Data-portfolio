@@ -7,7 +7,7 @@ client: IBM Cognos Analytics
 description: IBM Cognos Analytics
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Screenshot 2024-07-08 200250.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
