@@ -2,7 +2,7 @@
 type: PostLayout
 title: python
 colors: colors-b
-date: '2024-01-01'
+date: '2024-01-15'
 author: content/data/team/doris-soto.json
 excerpt: Python Journey
 featuredImage:
