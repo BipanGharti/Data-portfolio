@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: IBM Cognos Analytics
 colors: colors-a
-date: '2021-08-15'
+date: '0202-08-15'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
