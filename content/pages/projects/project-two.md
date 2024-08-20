@@ -11,7 +11,7 @@ featuredImage:
   altText: Tableau Dashboard
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/Screenshot 2024-08-05 093501.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
