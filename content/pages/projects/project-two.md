@@ -13,7 +13,7 @@ media:
   type: ImageBlock
   url: /images/Screenshot 2024-08-05 093501.png
   altText: Tableau
-  caption: Caption of the image
+  caption: tableau
   elementId: ''
 ---
 🚀 **Unleashing Data-Driven Insights** 🚀
