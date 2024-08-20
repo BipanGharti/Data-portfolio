@@ -15,6 +15,7 @@ media:
   altText: Tableau
   caption: tableau
   elementId: ''
+socialImage: /images/Screenshot 2024-08-05 093501.png
 ---
 🚀 **Unleashing Data-Driven Insights** 🚀
 
