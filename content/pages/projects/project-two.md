@@ -9,6 +9,12 @@ featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2024-08-15 195801.png
   altText: Tableau Dashboard
+media:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 🚀 **Unleashing Data-Driven Insights** 🚀
 
