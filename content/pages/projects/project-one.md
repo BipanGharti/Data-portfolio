@@ -20,7 +20,7 @@ metaTags:
     property: 'og:title'
     content: ''
 ---
-🚀 Transforming Data into Actionable Insights: A Deep Dive into Our Sales Analytics Dashboard with the help of [hashtag#IBM](https://www.linkedin.com/feed/hashtag/?keywords=ibm\&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7215679847849680896) Cognos Analytics🚀
+🚀 Transforming Data into Actionable Insights: A Deep Dive into Our Sales Analytics Dashboard with the help of IBM Cognos Analytics🚀
 
 I’m thrilled to share a recent project where we leveraged data visualization to gain valuable insights into our sales performance and product trends. Here's a sneak peek into our comprehensive dashboard:
 
@@ -49,4 +49,3 @@ Inventory Management: Align stock levels with the observed demand patterns, part
 Price Optimization: Maintain competitive pricing to continue attracting customers without compromising on margins.
 
 This project underscores the power of data visualization in driving informed decision-making and strategic planning. By transforming raw data into meaningful insights, we can better understand our business dynamics and identify growth opportunities.
-
