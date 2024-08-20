@@ -13,6 +13,7 @@ media:
   type: ImageBlock
   url: /images/Screenshot 2024-07-08 200250.png
   altText: Coffee Sales Dashboard
+metaTitle: IBM Cognos Analytics
 ---
 🚀 Transforming Data into Actionable Insights: A Deep Dive into Our Sales Analytics Dashboard with the help of [hashtag#IBM](https://www.linkedin.com/feed/hashtag/?keywords=ibm\&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7215679847849680896) Cognos Analytics🚀
 
