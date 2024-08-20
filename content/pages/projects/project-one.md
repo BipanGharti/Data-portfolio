@@ -12,6 +12,6 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Screenshot 2024-07-08 200250.png
-  altText: Project image
+  altText: Coffee Sales Dashboard
 ---
  IBm Cognos Analytics
