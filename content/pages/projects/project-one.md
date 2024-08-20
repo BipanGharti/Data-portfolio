@@ -15,6 +15,10 @@ media:
   altText: Coffee Sales Dashboard
 metaTitle: IBM Cognos Analytics
 metaDescription: IBM Cognos Analytics
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
 🚀 Transforming Data into Actionable Insights: A Deep Dive into Our Sales Analytics Dashboard with the help of [hashtag#IBM](https://www.linkedin.com/feed/hashtag/?keywords=ibm\&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7215679847849680896) Cognos Analytics🚀
 
