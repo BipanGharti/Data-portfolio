@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Screenshot 2024-07-08 200250.png
   altText: Project image
 ---
  IBm Cognos Analytics
