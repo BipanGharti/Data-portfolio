@@ -12,7 +12,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Screenshot 2024-08-05 093501.png
-  altText: altText of the image
+  altText: Tableau
   caption: Caption of the image
   elementId: ''
 ---
