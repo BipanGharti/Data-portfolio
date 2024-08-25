@@ -111,6 +111,7 @@ media:
   caption: Electric vs Non-Electric Sales
   elementId: ''
 metaTitle: Car sales analysis using tableau
+metaDescription: tableau dashboard
 ---
 ### 1. **Compound Annual Growth Rate (CAGR):**
 
