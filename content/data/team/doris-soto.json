@@ -2,10 +2,5 @@
     "type": "Person",
     "firstName": "Bipan",
     "lastName": "Gharti",
-    "image": {
-        "type": "ImageBlock",
-        "url": "/images/about.jpg",
-        "altText": "Doris Soto photo"
-    },
     "role": "student"
 }
