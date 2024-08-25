@@ -112,7 +112,7 @@ media:
   type: ImageBlock
   url: /images/Screenshot 2024-08-26 085526.png
   altText: Car Sales Analysis
-  caption: Caption of the image
+  caption: Electric vs Non-Electric Sales
   elementId: ''
 ---
 
