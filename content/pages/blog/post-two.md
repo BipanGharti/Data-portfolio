@@ -111,7 +111,7 @@ bottomSections:
 media:
   type: ImageBlock
   url: /images/Screenshot 2024-08-26 085526.png
-  altText: altText of the image
+  altText: Car Sales Analysis
   caption: Caption of the image
   elementId: ''
 ---
