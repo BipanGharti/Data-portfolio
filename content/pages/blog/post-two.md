@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 date: '2024-08-26'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: Car Sales
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
