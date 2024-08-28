@@ -188,4 +188,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
+metaTitle: Home
+metaDescription: Home
 ---
