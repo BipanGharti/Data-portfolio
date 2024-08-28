@@ -412,4 +412,5 @@ sections:
       text:
         textAlign: left
 metaTitle: 'Home Data '
+metaDescription: Home Data
 ---
