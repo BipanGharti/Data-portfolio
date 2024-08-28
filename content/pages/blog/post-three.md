@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: python
+title: Python
 colors: colors-b
 date: '2024-08-15'
 author: content/data/team/doris-soto.json
