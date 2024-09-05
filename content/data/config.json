@@ -12,7 +12,7 @@
                 "type": "Link",
                 "label": "Contact",
                 "url": "/Contact",
-                "showIcon": true
+                "showIcon": false
             },
             {
                 "type": "Link",
