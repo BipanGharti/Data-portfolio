@@ -51,14 +51,8 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Contact",
-                "url": "bipangharti@gmail.com",
+                "url": "/contact",
                 "altText": ""
             },
             {
