@@ -11,7 +11,8 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "/Contact"
+                "url": "/Contact",
+                "showIcon": true
             },
             {
                 "type": "Link",
