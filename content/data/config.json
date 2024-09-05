@@ -10,8 +10,9 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
+                "label": "Contact",
+                "url": "/Contact",
+                "showIcon": false
             },
             {
                 "type": "Link",
