@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: I’m a student for learning data anaytics
+    title: DAta Portfolio
     subtitle: >-
       This is my portfolio website to map my Journey of learning techworld.I’m
       sharing it all this with ya’ll to impress you with all the hard work I’ve
