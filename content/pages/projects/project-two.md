@@ -21,10 +21,13 @@ socialImage: /images/Screenshot 2024-08-05 093501.png
 
 Just completed a deep dive into our sales data using Tableau, and the insights are eye-opening! 📊 Here's a snapshot of our interactive dashboard, which highlights key metrics such as:
 
-🔹 **Revenue By Market:** Delhi NCR leads the way with an impressive $519.58M!
-🔹 **Sales Quantity By Market:** Topping the charts with 988.29K units in Delhi NCR.
-🔹 **Year-over-Year Revenue Trends:** A clear visual of our revenue trajectory from 2017 to 2020.
-🔹 **Top 5 Products & Customers:** Focusing on what's driving our success.
+*    **Revenue By Market:** Delhi NCR leads the way with an impressive $519.58M!
+
+*    **Sales Quantity By Market:** Topping the charts with 988.29K units in Delhi NCR.
+
+*    **Year-over-Year Revenue Trends:** A clear visual of our revenue trajectory from 2017 to 2020.
+
+*    **Top 5 Products & Customers:** Focusing on what's driving our success.
 
 Visualizing this data helps us identify growth opportunities, optimize strategies, and stay ahead in a competitive market. 🚀
 
@@ -97,8 +100,6 @@ Certainly! Let’s break down the trends observed in the provided Tableau dashbo
 *   **Customer Relationship Management:** Strengthen relationships with top customers while expanding the customer base to reduce revenue dependency.
 
 These trends and insights can help inform strategic decisions for future growth and risk management.
-
-
 
 To explore the product trends in the provided Tableau dashboard, let’s dive into the data displayed in the **Top 5 Products** chart:
 
