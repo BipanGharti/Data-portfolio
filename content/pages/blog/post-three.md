@@ -4,7 +4,7 @@ title: Python
 colors: colors-b
 date: '2024-08-15'
 author: content/data/team/doris-soto.json
-excerpt: Python Journey
+excerpt: Learning Python Journey
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image3.jpg
@@ -111,4 +111,5 @@ bottomSections:
 metaTitle: Python
 metaDescription: Python
 ---
- Python 
+*   Python
+
