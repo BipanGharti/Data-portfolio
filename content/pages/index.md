@@ -95,6 +95,7 @@ sections:
         label: See all posts
         url: /blog
     posts:
+      - content/pages/blog/coursera.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-six.md
       - content/pages/blog/post-three.md
