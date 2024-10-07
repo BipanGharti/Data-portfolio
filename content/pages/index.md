@@ -1,10 +1,10 @@
 ---
 type: PageLayout
 title: Home
-colors: colors-b
+colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/featured-Image3.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -15,10 +15,13 @@ sections:
     backgroundSize: full
     title: DAta Portfolio
     subtitle: >-
-      This is my portfolio website to map my Journey of learning techworld.I’m
-      sharing it all this with ya’ll to impress you with all the hard work I’ve
-      done in the past few years. Once you’re impressed, you can continue to
-      scroll down to see more details and credentials about me.
+      Enterprise Management System Student focusing on leveraging data
+      visualization tools like Tableau and Power BI to drive data-driven
+      decision-making. With a background in IBM Cognos Analytics and customer
+      relationship management, adept at transforming complex data into
+      actionable insights. Passionate about enhancing organizational performance
+      through innovative dashboard creation and report automation, aspiring to
+      contribute impactful insights in a dynamic environment.
     styles:
       self:
         height: auto
@@ -95,6 +98,7 @@ sections:
         label: See all posts
         url: /blog
     posts:
+      - content/pages/blog/coursera.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-six.md
       - content/pages/blog/post-three.md
