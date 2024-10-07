@@ -14,7 +14,14 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: DAta Portfolio
-    subtitle: This
+    subtitle: >-
+      Enterprise Management System Student focusing on leveraging data
+      visualization tools like Tableau and Power BI to drive data-driven
+      decision-making. With a background in IBM Cognos Analytics and customer
+      relationship management, adept at transforming complex data into
+      actionable insights. Passionate about enhancing organizational performance
+      through innovative dashboard creation and report automation, aspiring to
+      contribute impactful insights in a dynamic environment.
     styles:
       self:
         height: auto
