@@ -19,3 +19,9 @@ media:
   caption: PowerBI reports
   elementId: ''
 ---
+🌟 Excited to share my latest project on the remarkable journey of billionaire Ratan Tata! 🌟
+
+This guided project involved an in-depth exploration of Tata’s legacy, focusing on innovation, leadership, and impact across industries. It utilized PowerPoint, Figma, and Power BI to present insights, creating an engaging visual experience and highlighting Tata's strategic decisions that have inspired millions.
+
+Special thanks to The Developers for their invaluable guidance throughout this project!
+
