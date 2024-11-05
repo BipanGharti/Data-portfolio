@@ -15,7 +15,7 @@ backgroundImage:
 media:
   type: ImageBlock
   url: /images/1.png
-  altText: altText of the image
+  altText: Power BI Dashboard
   caption: Caption of the image
   elementId: ''
 ---
