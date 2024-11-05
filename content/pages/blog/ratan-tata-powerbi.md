@@ -16,6 +16,6 @@ media:
   type: ImageBlock
   url: /images/1.png
   altText: Power BI Dashboard
-  caption: Caption of the image
+  caption: PowerBI reports
   elementId: ''
 ---
